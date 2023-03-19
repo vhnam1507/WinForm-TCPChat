@@ -1,0 +1,13 @@
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPserver\bin\Debug\TCPserver.exe.config
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPserver\bin\Debug\TCPserver.exe
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPserver\bin\Debug\TCPserver.pdb
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPserver\bin\Debug\SimpleTCP.dll
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPserver\obj\Debug\TCPserver.csproj.AssemblyReference.cache
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPserver\obj\Debug\TCPserver.csproj.SuggestedBindingRedirects.cache
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPserver\obj\Debug\TCPserver.Properties.Resources.resources
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPserver\obj\Debug\TCPserver.Server.resources
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPserver\obj\Debug\TCPserver.csproj.GenerateResource.cache
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPserver\obj\Debug\TCPserver.csproj.CoreCompileInputs.cache
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPserver\obj\Debug\TCPserver.csproj.CopyComplete
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPserver\obj\Debug\TCPserver.exe
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPserver\obj\Debug\TCPserver.pdb

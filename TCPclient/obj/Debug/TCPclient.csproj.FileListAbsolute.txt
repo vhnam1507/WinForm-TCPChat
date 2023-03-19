@@ -1,0 +1,13 @@
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPclient\bin\Debug\TCPclient.exe.config
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPclient\bin\Debug\TCPclient.exe
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPclient\bin\Debug\TCPclient.pdb
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPclient\bin\Debug\SimpleTCP.dll
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPclient\obj\Debug\TCPclient.csproj.AssemblyReference.cache
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPclient\obj\Debug\TCPclient.csproj.SuggestedBindingRedirects.cache
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPclient\obj\Debug\TCPclient.Client.resources
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPclient\obj\Debug\TCPclient.Properties.Resources.resources
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPclient\obj\Debug\TCPclient.csproj.GenerateResource.cache
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPclient\obj\Debug\TCPclient.csproj.CoreCompileInputs.cache
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPclient\obj\Debug\TCPclient.csproj.CopyComplete
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPclient\obj\Debug\TCPclient.exe
+E:\20H1120232\Lập trình mạng\20H1120232-VuHoangNam-BT04\20H1120232-VuHoangNam-BT04\TCPclient\obj\Debug\TCPclient.pdb
